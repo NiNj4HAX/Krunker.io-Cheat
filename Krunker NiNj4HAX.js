@@ -55,8 +55,8 @@ function read(url) {
     });
 };
 
-// Aimdot
-document.getElementById('aimRecticle').innerHTML = '<img id="recticleImg" src="https://i.redd.it/aa069tp99wh31.png">';
+
+
 
 let shared_state = new Map(Object.entries({functions_to_hide: new WeakMap(), strings_to_hide: [], hidden_globals: [], init: false}));
 
@@ -455,7 +455,7 @@ let render = function(c) {
                         material.emissive.g = 1;
                         material.wireframe = true;
 
-                       
+
                     };
                 };
             }
