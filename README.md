@@ -1,4 +1,4 @@
-# Krunker.io-Cheat
+# Krunker.io-Cheat (Outdated!!)
 A Krunker.io ESP Aimbot
 
 Just open the JavaScript file and Copy Everything then Paste to TraperMonkey..
